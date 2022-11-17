@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "Sidhdharth Lakum",
+      "username": "Sidhdharth",
+      "email": "sidhdharth123@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Dhaval",
+      "username": "Dhaval11",
+      "email": "dhaval@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "username": "test44",
+      "email": "test@ee",
+      "addCheck": "",
+      "updateCheck": "",
+      "deleteCheck": "",
+      "id": 5
+    },
+    {
+      "name": "Vishal ",
+      "username": "Vishal00",
+      "email": "vishal@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Sunil Lakum",
+      "username": "Sunil22",
+      "email": "Sunil@gmail.com",
+      "id": 7
+    }
+  ]
+}
